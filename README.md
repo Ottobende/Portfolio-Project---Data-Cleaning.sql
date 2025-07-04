@@ -7,4 +7,7 @@ This project focuses on cleaning and preparing the World's Layoffs dataset from 
 3. Look at Null Values
 4. Remove any columns and rows we need to
 
+## Dataset
+<a href="https://github.com/AlexTheAnalyst/MySQL-YouTube-Series/blob/main/layoffs.csv">Dataset</a>
+
 All SQL queries and transformation steps are included and well-documented for reproducibility.
